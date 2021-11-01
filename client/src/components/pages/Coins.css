@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Hairline&family=Major+Mono+Display&family=Megrim&family=Sarpanch&display=swap');
+
+.login {
+    font-family: 'Bungee Hairline', cursive;
+    color: lightskyblue;
+    text-shadow: 1px 1px 2px white;
+    border-collapse: collapse;
+}
+
+.pad-btm {
+    padding-bottom: 1em;
+}
+
+/* .btn-height {
+    margin: 10% 5%;
+} */
+
+.icon {
+    cursor: pointer;
+}
+
+.icon > svg {
+    pointer-events: none;
+}
+
+.icon-save {
+    color: mediumaquamarine;
+}
+
+.icon-cancel {
+    box-sizing: border-box;
+    color: firebrick;
+}
+
+.icon-update {
+    box-sizing: border-box;
+    color: mediumaquamarine;
+}
+
+.centered {
+    text-align: center;
+}
+
+.logo {
+    width: 10%;
+    height: 'auto';
+}
+
+tr.data>td {
+    font-family: 'sarpanch', serif;
+    font-size: 90%;
+    color: palegoldenrod;
+    text-shadow: 2px 2px 2px black;
+    text-align: center;
+    padding-bottom: 1em;
+}
+
+
+tr.table-heads>th {
+    font-family: 'sarpanch', serif;
+    font-size: 85%;
+    color: lightskyblue;
+    text-shadow: 2px 2px 2px black;
+    text-align: center;
+    padding-bottom: 1em;
+}
+
+.titleSifter {
+    font-family: 'Bungee Hairline', cursive;
+    color: palegoldenrod;
+    text-shadow: 2px 2px 2px white;
+}
+
+.h2 {
+    font-family: 'Bungee Hairline', cursive;
+    font-size: 125%;
+    color: lightskyblue;
+    text-shadow: 2px 2px 2px white;
+    padding-bottom: 1em;
+}
+
+.total {
+    font-family: 'Bungee Hairline', cursive;
+    color: lightseagreen;
+    text-shadow: 1px 1px 2px white;
+    padding-bottom: 1em;
+}
+
+.notify {
+    font-family: 'Bungee Hairline', cursive;
+    color: whitesmoke;
+    text-shadow: 1px 1px 2px white;
+    padding-bottom: 1em;
+}
+
+.refresh {
+    color: mediumaquamarine;
+}
+
+.form-control {
+    background-color: lightskyblue;
+    border: none;
+    box-sizing: border-box;
+    color: black;
+    font-size: 55%;
+    opacity: 80%;
+}
+
+.drop-toggle {
+    font-family: 'sarpanch', serif;
+    font-size: 80%;
+    color: palegoldenrod;
+    opacity: 80%;
+    text-shadow: 1px 1px 2px black;
+    display: flex;
+    justify-content: 'center';
+    align-items: 'center';
+}
+
+.sort-list-align {
+    display: flex;
+    justify-content: 'center';
+    align-items: 'center';
+}
+
+.drop-body {
+    background-color: lightskyblue;
+    font-size: 60%;
+    opacity: 75%;
+}
+
+.drop-text-field {
+    color: white;
+    opacity: 100%;
+}

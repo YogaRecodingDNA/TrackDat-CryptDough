@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Hairline&family=Major+Mono+Display&family=Megrim&family=Sarpanch&display=swap');
+
+.navSifter {
+    font-family: 'Megrim', cursive;
+    cursor: pointer;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.anchorNav {
+    color: lightskyblue;
+}
